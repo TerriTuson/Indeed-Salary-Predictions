@@ -19,7 +19,7 @@ Salaries were edited to make sure that they were consistent throughout, for exam
 
 Regex was used to ensure that the text of the cities were easier to parse in the modelling phase. 
 
-# EDA
+### EDA
 
 CountVectorizer and TfidfVectorizer were employed to better understand the text in the summary paragraph.
 
